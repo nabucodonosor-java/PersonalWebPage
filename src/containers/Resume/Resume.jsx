@@ -179,7 +179,7 @@ const Resume = (props) => {
     <div className="resume-screen-container" key="interests">
       <ResumeHeading
         heading="Family"
-        description="I am married and the father of two daughters. My wife and I enjoy having visitors, my oldest daughter talks a lot about books, politics and LGBTQI+ rights and with my youngest daughter we play soccer and volleyball and play minecraft."
+        description="I am married and the father of two kids. My wife and I enjoy having visitors, my oldest daughter talks a lot about books, politics and LGBTQI+ rights and with my youngest daughter we play soccer and volleyball and play minecraft."
       />
       <ResumeHeading
         heading="Sports"
